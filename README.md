@@ -130,8 +130,8 @@ If you use this code or data in your research, please cite:
 ## Contact
 
 For questions or collaboration inquiries, please contact:
-
-- [Author name and email to be added]
+  
+- justcallmejo@snu.ac.kr
 
 ## Acknowledgments
 
