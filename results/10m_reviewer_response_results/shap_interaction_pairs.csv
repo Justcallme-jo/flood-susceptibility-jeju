@@ -1,0 +1,29 @@
+Feature_1,Feature_2,Interaction_Strength
+Altitude (m),Average Slope (°),0.04322555359025091
+Altitude (m),Distance from Reservoir (m),0.038171636298245756
+Average Slope (°),Distance from Reservoir (m),0.015713293856508635
+Altitude (m),Distance from River (m),0.013637047050492953
+Altitude (m),Soil Drainage Score,0.007755041489375283
+Altitude (m),Impermeable Area Ratio,0.007217963262379525
+Distance from River (m),Distance from Reservoir (m),0.00588698869884415
+Average Slope (°),Distance from River (m),0.005194847098402562
+Average Slope (°),Soil Drainage Score,0.0035963007190976224
+Altitude (m),Sewer Pipe Length (m),0.0029488402252970222
+Soil Drainage Score,Distance from Reservoir (m),0.0028505163634501896
+Impermeable Area Ratio,Distance from Reservoir (m),0.0026506739968646907
+Average Slope (°),Impermeable Area Ratio,0.0024413922636435333
+Distance from River (m),Soil Drainage Score,0.0015951806779946507
+Distance from River (m),Impermeable Area Ratio,0.0014469648951903956
+Average Slope (°),Sewer Pipe Length (m),0.001293201746592549
+Distance from Reservoir (m),Sewer Pipe Length (m),0.0010734026711764807
+Impermeable Area Ratio,Sewer Pipe Length (m),0.000874011595411746
+Distance from River (m),Sewer Pipe Length (m),0.0007201014921607019
+Soil Drainage Score,Impermeable Area Ratio,0.0005660419373275989
+Soil Drainage Score,Sewer Pipe Length (m),0.0003413006733234626
+Altitude (m),Number of Manholes,0.0001845322953715717
+Sewer Pipe Length (m),Number of Manholes,0.00013126428077648333
+Average Slope (°),Number of Manholes,0.00011817222749989381
+Distance from Reservoir (m),Number of Manholes,0.00011308294023303482
+Impermeable Area Ratio,Number of Manholes,8.059110725099413e-05
+Distance from River (m),Number of Manholes,5.808461551829537e-05
+Soil Drainage Score,Number of Manholes,3.673615733194087e-05
